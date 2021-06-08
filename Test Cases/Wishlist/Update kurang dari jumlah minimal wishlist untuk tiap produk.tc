@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update kurang dari jumlah minimal wishlist untuk tiap produk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15c4d6e4-ee96-401d-8cc9-d041154c0015</testCaseGuid>
+</TestCaseEntity>
